@@ -7,7 +7,7 @@ self.addEventListener('install', e => {
           '/serviceWorker.js',
           '/index.html',
           '/manifest.json',
-          '144.png'
+          'wolf.png'
         ])
         .then(() => self.skipWaiting())
       })
