@@ -20,27 +20,111 @@ export default {
       editions:[
         {
           year:'2021',
-          editionNumber: '7'
+          editionNumber: '7',
+          groupes:[
+            {
+              name: 'Drakwald',
+              genre: 'Melodic Death Folk Metal'
+            },
+            {
+              name: 'Enlightened',
+              genre: 'Melodic Stoner Progressif'
+            },
+            {
+              name: 'Abenakis',
+              genre: 'Alternative Rock'
+            }
+          ],
         },
         {
           year:'2020',
-          editionNumber: '6'
+          editionNumber: '6',
+          groupes:[
+            {
+              name: 'Drakwald',
+              genre: 'Melodic Death Folk Metal'
+            },
+            {
+              name: 'Enlightened',
+              genre: 'Melodic Stoner Progressif'
+            },
+            {
+              name: 'Abenakis',
+              genre: 'Alternative Rock'
+            }
+          ],
         },
         {
           year:'2019',
-          editionNumber: '5'
+          editionNumber: '5',
+          groupes:[
+            {
+              name: 'Drakwald',
+              genre: 'Melodic Death Folk Metal'
+            },
+            {
+              name: 'Enlightened',
+              genre: 'Melodic Stoner Progressif'
+            },
+            {
+              name: 'Abenakis',
+              genre: 'Alternative Rock'
+            }
+          ],
         },
         {
           year:'2018',
-          editionNumber: '4'
+          editionNumber: '4',
+          groupes:[
+            {
+              name: 'Drakwald',
+              genre: 'Melodic Death Folk Metal'
+            },
+            {
+              name: 'Enlightened',
+              genre: 'Melodic Stoner Progressif'
+            },
+            {
+              name: 'Abenakis',
+              genre: 'Alternative Rock'
+            }
+          ],
         },
         {
           year:'2017',
-          editionNumber: '3'
+          editionNumber: '3',
+          groupes:[
+            {
+              name: 'Drakwald',
+              genre: 'Melodic Death Folk Metal'
+            },
+            {
+              name: 'Enlightened',
+              genre: 'Melodic Stoner Progressif'
+            },
+            {
+              name: 'Abenakis',
+              genre: 'Alternative Rock'
+            }
+          ],
         },
         {
           year:'2016',
-          editionNumber: '2'
+          editionNumber: '2',
+          groupes:[
+            {
+              name: 'Drakwald',
+              genre: 'Melodic Death Folk Metal'
+            },
+            {
+              name: 'Enlightened',
+              genre: 'Melodic Stoner Progressif'
+            },
+            {
+              name: 'Abenakis',
+              genre: 'Alternative Rock'
+            }
+          ],
         },
       ],
     }
