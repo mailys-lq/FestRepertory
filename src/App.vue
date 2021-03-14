@@ -152,8 +152,8 @@ export default {
               name: 'Affect',
               genre: 'Hardcore',
               socialMedia:[{
-                facebook: null,
-                instagram: null,
+                facebook: 'https://www.facebook.com/affect.officiel/',
+                instagram: 'https://www.instagram.com/affect_officiel/?hl=fr',
                 twitter: null,
               }],
               logo: 'assets/logo-group/',
